@@ -10,3 +10,4 @@ git 어쩌구 저쩌구!
 
 - git stash drop 번호
 - git stash clear >> 전부 삭제
+- git
